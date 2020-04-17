@@ -1,4 +1,4 @@
-""" Creating a Repository for University """
+""" Creating a Repository for University By Viren Ghori """
  
 import os
 
